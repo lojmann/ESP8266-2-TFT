@@ -1,7 +1,7 @@
 ESP8266-2-TFT
 =============
 
-ESP8266 output debug messages to TFT display.
+Output debug messages from ESP8266 to TFT display on Arduino!
 
 For original TFT code / licensing please refer to
 https://github.com/adafruit/TFTLCD-Library
